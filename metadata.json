@@ -1,0 +1,6 @@
+{
+  "name": "Klustra Order Flow & MMXM Scalping Engine",
+  "description": "Real-time M1/M5/M15/H1 XAUTUSDT Tether Gold order flow analytics, footprint charts, volume profile, DOM liquidity, absorption detection, and 24/7 5-minute MMXM/IPDA auto-signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
